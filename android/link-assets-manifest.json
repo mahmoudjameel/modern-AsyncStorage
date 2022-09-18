@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/Font/AmiriQuran-Regular.ttf",
+      "sha1": "eeab2554d07bab559a9e1bf012b46362eb2256b1"
+    },
+    {
+      "path": "assets/Font/ReemKufiInk-Regular.ttf",
+      "sha1": "d41e22c95307ce7642b9f457c384e562bbc9db40"
+    }
+  ]
+}
